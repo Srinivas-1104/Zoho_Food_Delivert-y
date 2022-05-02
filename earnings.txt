@@ -1,0 +1,5 @@
+
+EXECUTIVES 	 ALLOWANCE 	 DELIVERY CHARGES 	 TOTAL 
+
+DE1 		 10 		 50 				 60
+DE2 		 10 		 50 				 60
